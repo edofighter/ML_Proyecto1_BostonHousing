@@ -69,8 +69,3 @@ Proyecto_ML1/
 
 ---
 
-## 🔧 Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/TU_USUARIO/ML_Proyecto1_BostonHousing.git
