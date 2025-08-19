@@ -62,11 +62,9 @@ Proyecto_ML1/
 ## 📈 Visualizaciones
 
 1. **Comparación real vs predicción**  
-   ![Scatter plot](ruta_a_imagen_scatter.png)  
 
 2. **Distribución de errores**  
-   ![Histograma de errores](ruta_a_imagen_hist.png)  
-
+ 
 *(Opcional: guardar las imágenes con `plt.savefig("nombre.png")` en tu script.)*
 
 ---
